@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/historia-animada/static/css/main.815af10f.css",
+    "main.js": "/historia-animada/static/js/main.9e89a6a4.js",
+    "static/js/787.dd8d48af.chunk.js": "/historia-animada/static/js/787.dd8d48af.chunk.js",
+    "index.html": "/historia-animada/index.html",
+    "main.815af10f.css.map": "/historia-animada/static/css/main.815af10f.css.map",
+    "main.9e89a6a4.js.map": "/historia-animada/static/js/main.9e89a6a4.js.map",
+    "787.dd8d48af.chunk.js.map": "/historia-animada/static/js/787.dd8d48af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.815af10f.css",
+    "static/js/main.9e89a6a4.js"
+  ]
+}
