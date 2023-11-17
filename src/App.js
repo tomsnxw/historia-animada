@@ -70,41 +70,41 @@ function App() {
   return (
     <div className="App">
       <audio autoPlay loop>
-        <source src="/song.mp3" type="audio/mp3" />
+        <source src="song.mp3" type="audio/mp3" />
       </audio>
       <section className="section" id="section1" ref={sectionRefs[0]}>
         <video controls={true} autoPlay loop>
-          <source src="/1.mp4" type="video/mp4" />
+          <source src="1.mp4" type="video/mp4" />
         </video>
       </section>
 
       <section className="section" id="section2" ref={sectionRefs[1]}>
         <video controls={true} autoPlay loop>
-          <source src="/2.mp4" type="video/mp4" />
+          <source src="2.mp4" type="video/mp4" />
         </video>
       </section>
 
       <section className="section" id="section3" ref={sectionRefs[2]}>
         <video controls={true} autoPlay loop>
-          <source src="/3.mp4" type="video/mp4" />
+          <source src="3.mp4" type="video/mp4" />
         </video>
       </section>
 
       <section className="section" id="section4" ref={sectionRefs[3]}>
         <video controls={true} autoPlay loop>
-          <source src="/4.mp4" type="video/mp4" />
+          <source src="4.mp4" type="video/mp4" />
         </video>
       </section>
 
       <section className="section" id="section5" ref={sectionRefs[4]}>
         <video controls={true} autoPlay loop>
-          <source src="/5.mp4" type="video/mp4" />
+          <source src="5.mp4" type="video/mp4" />
         </video>
       </section>
 
       <section className="section" id="section6" ref={sectionRefs[5]}>
         <video controls={true} autoPlay loop>
-          <source src="/6.mp4" type="video/mp4" />
+          <source src="6.mp4" type="video/mp4" />
         </video>
       </section>
 
