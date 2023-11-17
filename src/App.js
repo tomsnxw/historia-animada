@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react';
-import '/videos/App.css';
+import 'App.css';
 
 function App() {
   const sectionRefs = [
