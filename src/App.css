@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  background-color: black;
+}
+
+video {
+  outline: none; /* Elimina el contorno enfocado predeterminado */
+  -webkit-appearance: none; /* Elimina los estilos del navegador en Safari */
+  appearance: none; /* Elimina los estilos del navegador en otros navegadores */
+  height: 100vh;   background-color: black; /* Color de fondo para la pantalla en blanco antes de cargar el video */
+  cursor: pointer; /* Cambia el cursor a una mano cuando se coloca sobre el video */
+ 
+}
+
+section {
+  padding-bottom: 5vw;
+}
+
