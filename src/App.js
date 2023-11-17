@@ -65,7 +65,7 @@ function App() {
       window.removeEventListener('scroll', handleScroll);
       window.removeEventListener('wheel', handleWheel);
     };
-  }, [() => sectionRefs]);
+  }, [sectionRefs]);
 
   return (
     <div className="App">
