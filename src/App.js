@@ -74,49 +74,49 @@ function App() {
       </audio>
       <section className="section" id="section1" ref={sectionRefs[0]}>
         <video controls={true} autoPlay loop>
-          <source src="/videos/1.mp4" type="video/mp4" />
+          <source src="../videos/1.mp4" type="video/mp4" />
         </video>
       </section>
 
       <section className="section" id="section2" ref={sectionRefs[1]}>
         <video controls={true} autoPlay loop>
-          <source src="/videos/2.mp4" type="video/mp4" />
+          <source src="../videos/2.mp4" type="video/mp4" />
         </video>
       </section>
 
       <section className="section" id="section3" ref={sectionRefs[2]}>
         <video controls={true} autoPlay loop>
-          <source src="/videos/3.mp4" type="video/mp4" />
+          <source src="/" type="video/mp4" />
         </video>
       </section>
 
       <section className="section" id="section4" ref={sectionRefs[3]}>
         <video controls={true} autoPlay loop>
-          <source src="/videos/4.mp4" type="video/mp4" />
+          <source src="../videos/4.mp4" type="video/mp4" />
         </video>
       </section>
 
       <section className="section" id="section5" ref={sectionRefs[4]}>
         <video controls={true} autoPlay loop>
-          <source src="/videos/5.mp4" type="video/mp4" />
+          <source src="../videos/5.mp4" type="video/mp4" />
         </video>
       </section>
 
       <section className="section" id="section6" ref={sectionRefs[5]}>
         <video controls={true} autoPlay loop>
-          <source src="/videos/6.mp4" type="video/mp4" />
+          <source src="../videos/6.mp4" type="video/mp4" />
         </video>
       </section>
 
       <section className="section" id="section7" ref={sectionRefs[6]}>
         <video controls={true} autoPlay loop>
-          <source src="/videos/7.mp4" type="video/mp4" />
+          <source src="../videos/7.mp4" type="video/mp4" />
         </video>
       </section>
 
       <section className="section" id="section8" ref={sectionRefs[7]}>
         <video controls={true} autoPlay loop>
-          <source src="/videos/8.mp4" type="video/mp4" />
+          <source src="../videos/8.mp4" type="video/mp4" />
         </video>
       </section>
     
